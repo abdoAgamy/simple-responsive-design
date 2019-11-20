@@ -1,0 +1,572 @@
+
+
+
+.phone
+{
+
+	float: right;
+	padding-top: 10px;   
+	list-style-type: none;
+}
+.phone li
+{
+	height: 14px;
+	float: left;
+	padding-top: 3px;
+	padding-left: 15px;
+	padding-right: 10px;
+
+	margin-right: 25px;
+}
+
+.phone li a
+{
+	text-decoration: none;
+	font-size: 17px;
+	font-family: tahoma;
+}
+.head_search{
+	display: inline-block;
+	position: relative;
+	border: 1px solid #DADFE6;
+	border-radius: 3px;
+	width: 272px;
+	float: right;
+	margin-top: 14px;
+	text-align: left;
+	padding: 0 10px;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+header{
+	border-bottom: 6px solid #1e3a8e;
+}
+
+.callender
+{
+	
+	background: #1E3A8E;
+	margin: 20px 0 0 0 ;
+	border-radius: 3px;
+
+}
+
+.callender input
+{
+	width: 80%;
+	height: 30px;
+	border:0;
+	background: #fff;
+	outline: 0;
+	border-radius: 5px;
+	float: right;
+	margin-right: 35px;
+	margin-top: 20px;
+
+
+}
+
+.callender button
+{
+	width: 80%;
+	height: 38px;
+	text-transform: uppercase;
+	background-color: #FFD200;
+	margin-top:55px;
+	margin-left: 30px;
+	border: 0;
+	color: #1E3A8E
+
+}
+
+.callender button span
+{
+	color: #fff;
+	padding-left: 10px;
+}
+
+.callender .btn-default
+{
+	margin-bottom: 25px
+}
+.callender button:hover
+{
+  background-color: #FFD200;
+  color: #fff;
+}
+
+
+.nav ul {
+	list-style-type: none;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #fff;
+}
+
+.nav ul  li {
+
+	float: left;
+}
+
+.nav ul li a {
+	display: block;
+	color: #1E3A8E;
+	text-align: center;
+	text-decoration: none;
+	padding: 25px 10px ;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	font-size: 15px;
+	font-family: tahoma;
+
+}
+
+
+.nav ul li a:hover {
+	background-color: #1E3A8E;
+	color: #fff;
+}
+
+.topbar
+{
+	border-bottom: 1px solid #ccc;
+	width: 90%;
+	float:right;
+}
+
+.glyphicon
+{
+	color: #1E3A8E;
+}
+.phone li {
+    height: 19px;
+    float: left;
+    padding-top: 3px;
+    padding-left: 15px;
+    padding-right: 0;
+    margin-right: 0;
+}
+.head_search input
+{
+	border: none;
+	outline: 0;
+	height: 100%;
+	width:90%;
+
+}
+
+.head_search
+{
+	height: 40px;
+	width: 100%;
+
+}
+
+.sliderclass
+{
+   
+    padding-top: 20px;
+   
+}
+
+.mySlides
+{
+	display:none;
+}
+
+
+.hotel_main #H
+{
+    width: 100%;
+}
+.hotel_main #H
+{
+    font-style: normal;
+    text-transform: uppercase;
+    padding-top: 40px;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+  
+.hotel_main .part_title 
+{
+    padding: 28px;
+    background: #1E3A8E;
+    color: #fff;
+    margin-bottom: 0
+}
+.part_title:hover
+{
+	
+	
+		background-color: #0d48edad
+}
+
+.hotel_main .part_title  em
+{
+    display: block;
+    float: right;
+    color: #fff;
+}
+
+.fhotel_main ul
+{
+    list-style: none;
+    background: #fff;
+    padding: 0;
+
+    margin: 0;
+
+}
+
+.fhotel_main ul li
+{
+    border-top: 1px solid #ddd;
+    padding: 5px;
+    width: 100%;
+}
+
+.fhotel_main ul li a
+{
+    display: block;
+    padding: 7px 15px;
+    text-decoration: none;
+    color: #10447d;
+
+}
+
+.fhotel_main ul li:hover
+{
+    background: #fef7d6;
+}
+
+.fhotel_main ul li .price
+{
+    display: block;
+    float: right;
+    color: #BD005C;
+    font-size: 25px;
+    padding-top: 1px;
+    line-height: 20px;
+}
+
+.fhotel_main .go
+{
+    width: 100%;
+    margin: 0;
+    padding-top: 10px;
+     padding-bottom: 10px;
+    text-align: right;
+    display: block; 
+    border-top: 1px solid #ddd;
+    line-height: 30px;
+    border-bottom: 1px solid #ddd;
+}
+
+
+.fhotel_main .go a
+{
+    text-decoration: none;
+    color: #10447d;
+    font-style: normal;
+    font-size: 18px;
+    
+}
+
+
+
+#product_title
+{
+    padding-top: 37px;
+    color: #000;
+    padding-left: 0;    
+    margin-left: 0;
+    font-family: monospace;
+    font-size: 22px;
+    padding-bottom: 15px;
+        
+}
+
+.product
+{
+   
+    border-bottom: 1px solid #ccc;
+    margin: 40px 0 ;
+
+    
+}
+.product  
+
+.product img
+{
+    width: 100%
+}
+
+.product .product_info
+{
+    width: 100%;
+    background: #fff;
+    padding-top: 20px;
+   
+}
+
+.product .product_info span
+{
+    display: block;
+}
+
+.product .product_info .s1
+{
+    color: #10447d;
+    font-size: 22px;
+    float: left;
+    line-height: 20px;
+    font-weight: bold;
+}
+
+.product .product_info .s2
+{
+    float: right;
+    
+}
+
+.product .product_info .s2 .deleted_price
+{
+    color: #888;
+    font-size: 20px;
+    text-decoration: line-through;
+    float: left;
+    padding-top: 3px;
+    
+}
+
+.product .product_info .s2 .percenteg
+{
+    color: #fff;
+    background: #BD005C;
+    text-align: center;
+    font-size: 12px;
+    padding: 5px 2px;
+    float: right;
+    border-radius: 3px;
+    
+}
+
+
+.product .product_info .s3
+{
+    font-size: 15px;
+    float: left;
+    padding-top: 10px;
+    
+    color: #10447d;
+    font-family: tahoma;
+        
+}
+
+.product .product_info .s4
+{
+    float: right;
+    padding-top:1px;
+    font-size: 25px;
+    color: #BD005C;
+    font-weight: bold;
+    padding-left: 20px;
+
+        
+}
+
+
+#product_title2
+{
+    padding-bottom: 10px;
+    font-size: 22px;
+    font-family: serif;
+}
+
+.cover-img
+{
+	padding-top: 40px
+}
+.img-responsive
+{
+	margin: auto;
+
+}
+
+.article_title h5 a
+{
+	text-decoration: none;
+	color: #000;
+	font-weight: bold;	
+}
+.plain p
+{
+	font-size: 14px;
+}
+
+footer
+{
+	background-color: #1E3A8E;	
+	color: #fff;
+}
+.phone_footer
+{
+
+}
+
+.Infolinka
+{
+	padding-left: 40px;
+	display: block;
+	font-size: 20px
+}
+.first
+{
+	text-align: center;
+	font-size: 25px;
+	padding-left: 15px
+}
+.Jsme
+{
+	display: block;
+	padding-left: 40px;
+	font-size: 15px
+}
+.time_span
+{
+	color: #fff; 
+	float: left;
+	padding-left: 50px
+}
+
+
+.Kontaktn
+{
+	padding-left: 40px;
+	display: block;
+}
+
+.Napiste
+{
+	display: block;
+	font-size: 25px;
+}
+.footer_first
+{
+	border-bottom: 1px solid #ddd;
+	padding-bottom: 40px
+}
+.one
+{
+	padding:30px 0 ;
+
+}
+.one a
+{
+	color: #fff;
+	text-decoration: none;
+
+}
+.sites
+{
+
+}
+
+.cedok_info
+{
+	padding-top: 30px;
+	border-top:1px solid#ddd;
+	
+
+}
+.small_footer
+{
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:768px)
+{
+	.nav li
+	{
+		width: 100%;
+	}
+	.topbar
+	{
+		display: none;
+	}
+
+
+	.small_footer
+	{
+		color: #fff;
+		display: block;
+		margin: auto;
+		text-align: center;
+		font-size: 20px
+	}
+
+	.cedok_info , .one, .footer_first,.footer_h3
+	{
+		display: none;
+	}
+}
+@media(min-width: 769px)and (max-width: 991px)
+{
+	.nav li
+	{
+		width: 100%;
+	}
+	.topbar
+	{
+		display: none;
+	}
+	.small_footer
+	{
+		color: #fff;
+		display: block;
+		margin: auto;
+		text-align: center;
+		font-size: 20px;
+		padding:15px;
+	}
+
+	.cedok_info , .one, .footer_first,.footer_h3
+	{
+		display: none;
+	}
+}
